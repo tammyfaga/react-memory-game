@@ -1,6 +1,6 @@
 # Jogo de Memória
 
-Creating a memory game with React. 
+Creating a memory game with React and Redux. 
 
 Concepts applied based on the Udemy 'React Professional' course.
 
