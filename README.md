@@ -1,4 +1,4 @@
-# Jogo de Memória
+# Memory Game
 
 Creating a memory game with React and Redux. 
 
